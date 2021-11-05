@@ -28,6 +28,6 @@ $ cd track-domain
 $ bash track-dom.sh
 ```
 
-#📱 me akun social 📱
+#          📱 me akun social 📱
 • [github](https://github.com/Bayu12345677)                     
 • [youtube](https://m.youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
