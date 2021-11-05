@@ -1,2 +1,3 @@
-# track-domain
-script ini berguna untuk mencari informasi dari domain target
+![p](https://img.shields.io/badge/Program-Bash-blue) 
+![p](https://img.shields.io/badge/Made-INDONESIA-red)
+![p](https://img.shields.io/badge/Code-BY%20POLYGON-yellowgreen)
