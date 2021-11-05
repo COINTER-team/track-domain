@@ -6,3 +6,6 @@ script ini berguna untuk tracking informasi dari domain target
 
 ```bash
 usage :
+```
+           
+![i](https://github.com/COINTER-team/track-domain/blob/main/Screenshot_20211105-171214.png)
